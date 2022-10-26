@@ -1118,6 +1118,13 @@ but in your heart, turn to God.
 \endverse
 \endsong
 
+\beginscripture{Psalms 8:1 (NLT)}
+O Lord, our Lord, your majestic name fills the earth!  Your glory is higher than the heavens.
+\endscripture
+\beginscripture{Psalms 19:1-4 (NLT)}
+The heavens proclaim the glory of God.  The skies display his craftsmanship. Day after day they continue to speak; night after night they make him known. They speak without a sound or word; their voice is never heard. Yet their message has gone throughout the earth, and their words to all the world.
+\endscripture
+
 \beginsong{Famous One}[]
 \beginchorus
 You are the Lord - The famous One, famous One!
@@ -1138,6 +1145,10 @@ Revealed by nature and miracles -
 You are beautiful.  You are beautiful.
 \endverse
 \endsong
+
+\beginscripture{Revelation 4:8-11 (NLT)}
+Day after day and night after night they keep on saying, “Holy, holy, holy is the Lord God, the Almighty— the one who always was, who is, and who is still to come.” Whenever the living beings give glory and honor and thanks to the one sitting on the throne (the one who lives forever and ever), the twenty-four elders fall down and worship the one sitting on the throne (the one who lives forever and ever). And they lay their crowns before the throne and say, “You are worthy, O Lord our God, to receive glory and honor and power. For you created all things, and they exist because you created what you pleased.”
+\endscripture
 
 \beginsong{Revelation Song}[]
 \beginverse
@@ -1359,7 +1370,14 @@ I'll fly away (Chorus)
 \endverse
 \endsong
 
-\beginsong{The Solid Rock}[]
+\beginscripture{Isaiah 28:16 (NLT)}
+Therefore, this is what the Sovereign Lord says: “Look! I am placing a foundation stone in Jerusalem, a firm and tested stone. It is a precious cornerstone that is safe to build on. Whoever believes need never be shaken.
+\endscripture
+\beginscripture{Matthew 7:24-27 (NLT)}
+“Anyone who listens to my teaching and follows it is wise, like a person who builds a house on solid rock. Though the rain comes in torrents and the floodwaters rise and the winds beat against that house, it won’t collapse because it is built on bedrock. But anyone who hears my teaching and doesn’t obey it is foolish, like a person who builds a house on sand. When the rains and floods come and the winds beat against that house, it will collapse with a mighty crash.”
+\endscripture
+
+\beginsong{The Solid Rock}[sr={Isaiah 28:16, Matthew 7:24-28}]
 \beginverse*
 My hope is built on nothing less
 Than Jesus' blood and righteousness;
@@ -1700,3 +1718,73 @@ The Lord of majesty
 When He comes again
 \endverse
 \endsong
+
+\beginsong{Better Is One Day}[]
+\transpose{-2}
+\beginverse
+How \[E]lovely is your dwelling place
+\[A2]Oh, Lord Al\[Bsus]mighty
+For \[E]my soul longs and even faints for \[Bsus]You
+For \[E]here my heart is satisfied
+\[A2]Within Your \[Bsus]presence
+\[E]I sing beneath the shadow of Your \[Bsus]wings
+\endverse
+\beginchorus
+Better is \[A2]one day in Your courts
+Better is \[Bsus]one day in Your house
+Better is \[A2]one day in Your courts
+Than thousands \[Bsus]elsewhere
+\endchorus
+\beginverse*
+Than thousands \[E]elsewhere
+\endverse
+\beginverse
+One \[E]thing I ask and I would seek
+\[A2]To see Your \[Bsus]beauty
+To \[E]find You in the place Your glory \[Bsus]dwells
+\rep{2}
+\endverse
+\beginverse*
+\[C#m]My heart and flesh cry \[(B)]out
+\[A2]For You, the living \[(B)]God
+\[C#m]Your Spirit's \[B]water to my \[A2]soul
+\[C#m]I've tasted and I've \[(B)]seen
+\[A2]Come once again to \[(B)]me
+\[C#m]I will draw near \[(B)]to \[(A2)]You
+\[F#m]I will draw near to \[B]You
+\endverse
+\endsong
+
+\beginsong{Holy and Annointed One}[]
+\beginverse*
+\[G]\[Bm]Je\[C]sus, \[G]\[D]Je\[C]sus
+\[G]Holy \[D]and an\[C]ointed \[Am]one, \[G]\[D]Je\[G]sus.
+\[G]\[Bm]Je\[C]sus, \[G]\[D]Je\[C]sus
+\[G]Risen \[D]and ex\[C]alted \[Am]one, \[G]\[D]Je\[G]sus.
+\endverse
+\beginchorus
+Your name is like \[C]honey on my \[G]lips,
+Your spirit like \[C]water to my \[G]soul
+Your word is a \[C]lamp unto \[D]my \[Em]feet,
+Jesus I \[C]love You, I love \[D]You.
+\endchorus
+\endsong
+
+%\beginsong{Love You So Much}[]
+%\beginchorus
+%Hear this praises from a grateful heart
+%Each time I think of You the praises start
+%Love You so much Jesus love You so much
+%Lord I love You my soul sings
+%In Your presence carried on your wings
+%Love You so much Jesus love You so much
+%\endchorus
+%\beginverse*
+%How my soul longs for You
+%Longs to worship You for ever
+%In Your Power and Majesty
+%Lift my hands lift my heart
+%Lift my voice towards the heavens
+%For You are my sun and shield
+%\endverse
+%\endsong
