@@ -1118,12 +1118,12 @@ but in your heart, turn to God.
 \endverse
 \endsong
 
-\beginscripture{Psalms 8:1 (NLT)}
-O Lord, our Lord, your majestic name fills the earth!  Your glory is higher than the heavens.
-\endscripture
-\beginscripture{Psalms 19:1-4 (NLT)}
-The heavens proclaim the glory of God.  The skies display his craftsmanship. Day after day they continue to speak; night after night they make him known. They speak without a sound or word; their voice is never heard. Yet their message has gone throughout the earth, and their words to all the world.
-\endscripture
+%\beginscripture{Psalms 8:1 (NLT)}
+%O Lord, our Lord, your majestic name fills the earth!  Your glory is higher than the heavens.
+%\endscripture
+%\beginscripture{Psalms 19:1-4 (NLT)}
+%The heavens proclaim the glory of God.  The skies display his craftsmanship. Day after day they continue to speak; night after night they make him known. They speak without a sound or word; their voice is never heard. Yet their message has gone throughout the earth, and their words to all the world.
+%\endscripture
 
 \beginsong{Famous One}[]
 \beginchorus
@@ -1146,9 +1146,9 @@ You are beautiful.  You are beautiful.
 \endverse
 \endsong
 
-\beginscripture{Revelation 4:8-11 (NLT)}
-Day after day and night after night they keep on saying, “Holy, holy, holy is the Lord God, the Almighty— the one who always was, who is, and who is still to come.” Whenever the living beings give glory and honor and thanks to the one sitting on the throne (the one who lives forever and ever), the twenty-four elders fall down and worship the one sitting on the throne (the one who lives forever and ever). And they lay their crowns before the throne and say, “You are worthy, O Lord our God, to receive glory and honor and power. For you created all things, and they exist because you created what you pleased.”
-\endscripture
+%\beginscripture{Revelation 4:8-11 (NLT)}
+%Day after day and night after night they keep on saying, “Holy, holy, holy is the Lord God, the Almighty— the one who always was, who is, and who is still to come.” Whenever the living beings give glory and honor and thanks to the one sitting on the throne (the one who lives forever and ever), the twenty-four elders fall down and worship the one sitting on the throne (the one who lives forever and ever). And they lay their crowns before the throne and say, “You are worthy, O Lord our God, to receive glory and honor and power. For you created all things, and they exist because you created what you pleased.”
+%\endscripture
 
 \beginsong{Revelation Song}[]
 \beginverse
@@ -1370,12 +1370,12 @@ I'll fly away (Chorus)
 \endverse
 \endsong
 
-\beginscripture{Isaiah 28:16 (NLT)}
-Therefore, this is what the Sovereign Lord says: “Look! I am placing a foundation stone in Jerusalem, a firm and tested stone. It is a precious cornerstone that is safe to build on. Whoever believes need never be shaken.
-\endscripture
-\beginscripture{Matthew 7:24-27 (NLT)}
-“Anyone who listens to my teaching and follows it is wise, like a person who builds a house on solid rock. Though the rain comes in torrents and the floodwaters rise and the winds beat against that house, it won’t collapse because it is built on bedrock. But anyone who hears my teaching and doesn’t obey it is foolish, like a person who builds a house on sand. When the rains and floods come and the winds beat against that house, it will collapse with a mighty crash.”
-\endscripture
+%\beginscripture{Isaiah 28:16 (NLT)}
+%Therefore, this is what the Sovereign Lord says: “Look! I am placing a foundation stone in Jerusalem, a firm and tested stone. It is a precious cornerstone that is safe to build on. Whoever believes need never be shaken.
+%\endscripture
+%\beginscripture{Matthew 7:24-27 (NLT)}
+%“Anyone who listens to my teaching and follows it is wise, like a person who builds a house on solid rock. Though the rain comes in torrents and the floodwaters rise and the winds beat against that house, it won’t collapse because it is built on bedrock. But anyone who hears my teaching and doesn’t obey it is foolish, like a person who builds a house on sand. When the rains and floods come and the winds beat against that house, it will collapse with a mighty crash.”
+%\endscripture
 
 \beginsong{The Solid Rock}[sr={Isaiah 28:16, Matthew 7:24-28}]
 \beginverse*
@@ -1695,7 +1695,6 @@ Wash all my sins away.
 \endverse
 \endsong
 
-
 \beginsong{Let The Heavens Be Glad Today}[]
 \beginverse*
 Let the heavens be glad today
@@ -1770,21 +1769,234 @@ Jesus I \[C]love You, I love \[D]You.
 \endchorus
 \endsong
 
-%\beginsong{Love You So Much}[]
-%\beginchorus
-%Hear this praises from a grateful heart
-%Each time I think of You the praises start
-%Love You so much Jesus love You so much
-%Lord I love You my soul sings
-%In Your presence carried on your wings
-%Love You so much Jesus love You so much
-%\endchorus
-%\beginverse*
-%How my soul longs for You
-%Longs to worship You for ever
-%In Your Power and Majesty
-%Lift my hands lift my heart
-%Lift my voice towards the heavens
-%For You are my sun and shield
-%\endverse
-%\endsong
+\beginsong{Love You So Much}[]
+\beginchorus
+Hear this praises from a grateful heart
+Each time I think of You - the praises start.
+Love You so much Jesus, love You so much.
+
+Lord I love You, my soul sings.
+
+In Your presence, carried on your wings.
+Love You so much Jesus, love You so much.
+\endchorus
+
+\beginverse*
+How my soul longs for You.
+Longs to worship You for ever,
+In Your Power and Majesty.
+Lift my hands, lift my heart
+Lift my voice towards the heavens
+For You are my sun and shield
+\endverse
+\endsong
+
+\beginsong{King Of My Heart}[]
+\beginverse*
+Let the King of my heart
+Be the mountain where I run
+The Fountain I drink from
+Oh, He is my song
+\endverse
+\beginverse*
+Let the King of my heart
+Be the shadow where I hide
+The ransom for my life
+Oh, He is my song
+\endverse
+
+\beginchorus
+You are good, good, oh! \rep{4}
+\endchorus
+
+\beginverse*
+Let the King of my heart
+Be the wind inside my sails
+The anchor in the waves
+Oh, He is my song
+\endverse
+
+\beginverse*
+Let the King of my heart
+Be the fire inside my veins
+The echo of my days
+Oh, He is my song
+\endverse
+
+\beginchorus
+You're never gonna let, never gonna let me down \rep{4}
+\endchorus
+\endsong
+
+
+\beginsong{The Way}[sr={John 14:6}]
+\beginchorus
+I believe you are the Way, the truth, the life. \rep{4}
+I believe you are. 
+\endchorus
+
+\beginverse
+Through every battle
+Through every heartbreak
+Through every circumstance
+I believe that you are my fortress,
+You are my portion,
+You are my hiding place. \rep{2}
+\endverse
+
+\beginverse
+Through every blessing
+Through every promise
+Through every breath I take
+I believe that you are provider,
+You are protector, you are the one I love.
+\endverse
+
+\beginverse
+It’s a new horizon, and I’m set on you
+And you meet me here today with mercies that are new.
+All my fears and doubts, they can all come too.
+Because they can’t stay long when I’m here with you.
+\rep{2}
+\endverse
+\endsong
+
+
+\beginsong{You've Always Been}[]
+\beginverse
+I’ve had good days, I’ve had bad days,
+Tasted victory in defeat.
+I’ve had problems big as planets turn to pebbles when you speak.
+I’ve had nothing to my name, never lacked for anything,
+Because you were there with me.
+\endverse
+
+\beginchorus
+You’ve been my Savior Sustainer, 
+when I’m at my end.
+You’ve been my Healer, Redeemer, 
+again and again.
+My mother and my father, brother, 
+sister, and friend -
+Everything I’ve needed Lord, you’ve always been! \rep{2}
+\endchorus
+
+\beginverse
+When I stand before you guilty
+Oh your mercy bears my blame.
+When in pride I think I’m worthy
+You point out the price you paid.
+When I wander far away 
+you keep calling out my name. 
+You don’t give up on me.
+\endverse
+
+\beginverse
+You are my strength, my rock, Jesus
+You are my hope, my song, Jesus
+Before my heart knows what to pray
+You’ve already made a way.  Jesus
+\endverse
+\endsong
+
+\beginsong{Tis So Sweet To Trust In Jesus}[]
+\beginverse
+'Tis so sweet to trust in Jesus,
+Just to take Him at His Word
+Just to rest upon His promise,
+Just to know, "Thus saith the Lord!”
+\endverse
+
+\beginchorus
+Jesus, Jesus, how I trust Him!
+How I've proved Him o'er and o'er
+Jesus, Jesus, precious Jesus!
+Oh, for grace to trust Him more!
+\endchorus
+
+\beginverse
+I'm so glad I learned to trust Him,
+Precious Jesus, Savior, Friend
+And I know that He is with me,
+Will be with me to the end.
+\endverse
+\endsong
+
+\beginsong{How Great Is Our God}[]
+\beginverse
+The splendor of the King
+Clothed in majesty
+Let all the earth rejoice
+All the earth rejoice
+He wraps himself in light
+And darkness tries to hide
+And trembles at his voice
+And trembles at his voice
+\endverse
+
+\beginchorus
+How great is our God, sing with me
+How great is our God and all who sing
+How great, how great is our God
+\endchorus
+
+\beginverse
+Age to age He stands
+And time is in His hands
+Beginning and the end
+Beginning and the end
+The Godhead, three in one
+Father, Spirit, Son
+The Lion and the Lamb
+The Lion and the Lamb
+\endverse
+
+\beginverse
+You’re the Name above all names!
+You are worthy of all praise!
+And my heart will sing how great is our God!
+\rep{2}
+\endverse
+
+\beginverse
+Then sings my soul, my Savior God, to Thee
+How great Thou art, how great Thou art
+Then sings my soul, my Savior God, to Thee
+How great Thou art, how great Thou art
+\endverse
+\endsong
+
+
+\beginsong{Holy Holy Holy}[]
+\beginverse
+Holy, holy, holy! Lord God Almighty!
+Early in the morning our song shall rise to Thee;
+Holy, holy, holy, merciful and mighty!
+God in three Persons, blessed Trinity!
+\endverse
+
+\beginverse
+Holy, holy, holy! All the saints adore Thee,
+Casting down their golden crowns 
+around the glassy sea;
+Cherubim and seraphim falling down before Thee,
+Which wert, and art, and evermore shalt be.
+\endverse
+
+\beginverse
+Holy, holy, holy! Though the darkness hide Thee,
+Though the eye of sinful man 
+Thy glory may not see;
+Only Thou art holy; there is none beside Thee,
+Perfect in power, in love, and purity.
+\endverse
+
+\beginverse
+Holy, holy, holy! Lord God Almighty!
+All Thy works shall praise Thy name, 
+in earth and sky and sea;
+Holy, holy, holy! Merciful and mighty,
+God in three persons, blessed Trinity.
+\endverse
+\endsong
+
